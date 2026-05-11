@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Banani Plaza",
+    "lat": 23.7937,
+    "lng": 90.4066,
+    "plotDetails": {
+      "plotOwnerName": "Brigade Enterprises Ltd",
+      "plotSize": "1.9 Acres",
+      "address": "Kemal Ataturk Avenue, Banani, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1560518883-ce09059eeffa"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1100 sq ft" },
+        { "type": "3 BHK", "size": "1500 sq ft" }
+      ],
+      "pricePerSqFt": 8500,
+      "flatPlan": [
+        {
+          "name": "Floor Plan 1",
+          "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5063c3"
+        },
+        {
+          "name": "Floor Plan 2",
+          "image": "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 28,
+      "soldFlats": 12
+    }
+  },
+  {
+    "id": 2,
+    "title": "Gulshan Heights",
+    "lat": 23.7925,
+    "lng": 90.4078,
+    "plotDetails": {
+      "plotOwnerName": "Eastern Housing Ltd",
+      "plotSize": "2.5 Acres",
+      "address": "Gulshan Avenue, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1501183638710-841dd1904471"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1200 sq ft" },
+        { "type": "4 BHK", "size": "1800 sq ft" }
+      ],
+      "pricePerSqFt": 9500,
+      "flatPlan": [
+        {
+          "name": "Plan A",
+          "image": "https://images.unsplash.com/photo-1600573472591-ee6981cf35b6"
+        },
+        {
+          "name": "Plan B",
+          "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 40,
+      "soldFlats": 25
+    }
+  },
+  {
+    "id": 3,
+    "title": "Iubat For Sale",
+    "lat": 23.888198,
+    "lng": 90.390491,
+    "plotDetails": {
+      "plotOwnerName": "CSE Students",
+      "plotSize": "3 Acres",
+      "address": "Embankment Drive Road, Dhaka 1230",
+      "plotPhoto": "https://i.ibb.co.com/hxHBSP89/iubat-picture.webp"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "1 BHK", "size": "800 sq ft" },
+        { "type": "2 BHK", "size": "1100 sq ft" }
+      ],
+      "pricePerSqFt": 7000,
+      "flatPlan": [
+        {
+          "name": "Plan 1",
+          "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d"
+        },
+        {
+          "name": "Plan 2",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 50,
+      "soldFlats": 30
+    }
+  },
+  {
+    "id": 4,
+    "title": "Dhanmondi Residency",
+    "lat": 23.7465,
+    "lng": 90.376,
+    "plotDetails": {
+      "plotOwnerName": "Prime Estates",
+      "plotSize": "1.2 Acres",
+      "address": "Dhanmondi 27, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1000 sq ft" },
+        { "type": "3 BHK", "size": "1400 sq ft" }
+      ],
+      "pricePerSqFt": 8000,
+      "flatPlan": [
+        {
+          "name": "Plan A",
+          "image": "https://images.unsplash.com/photo-1600607687260-e1f91cdd1b1f"
+        },
+        {
+          "name": "Plan B",
+          "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 20,
+      "soldFlats": 10
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mirpur City Homes",
+    "lat": 23.8223,
+    "lng": 90.3654,
+    "plotDetails": {
+      "plotOwnerName": "ABC Builders",
+      "plotSize": "2 Acres",
+      "address": "Mirpur 10, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "950 sq ft" },
+        { "type": "3 BHK", "size": "1300 sq ft" }
+      ],
+      "pricePerSqFt": 7500,
+      "flatPlan": [
+        {
+          "name": "Plan 1",
+          "image": "https://images.unsplash.com/photo-1600607688899-7c1d43d4b12d"
+        },
+        {
+          "name": "Plan 2",
+          "image": "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 35,
+      "soldFlats": 18
+    }
+  },
+  {
+    "id": 6,
+    "title": "Bashundhara Smart City",
+    "lat": 23.8196,
+    "lng": 90.4523,
+    "plotDetails": {
+      "plotOwnerName": "Bashundhara Group",
+      "plotSize": "5 Acres",
+      "address": "Bashundhara R/A, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1150 sq ft" },
+        { "type": "4 BHK", "size": "2000 sq ft" }
+      ],
+      "pricePerSqFt": 10000,
+      "flatPlan": [
+        {
+          "name": "Plan A",
+          "image": "https://images.unsplash.com/photo-1600573472591-ee6981cf35b6"
+        },
+        {
+          "name": "Plan B",
+          "image": "https://images.unsplash.com/photo-1600607687644-c7f34b5063c3"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 60,
+      "soldFlats": 40
+    }
+  },
+  {
+    "id": 7,
+    "title": "Mohakhali Tower",
+    "lat": 23.7772,
+    "lng": 90.3995,
+    "plotDetails": {
+      "plotOwnerName": "Urban Developers Ltd",
+      "plotSize": "2.2 Acres",
+      "address": "Mohakhali DOHS, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1050 sq ft" },
+        { "type": "3 BHK", "size": "1450 sq ft" }
+      ],
+      "pricePerSqFt": 8700,
+      "flatPlan": [
+        {
+          "name": "Plan X",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+        },
+        {
+          "name": "Plan Y",
+          "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 32,
+      "soldFlats": 20
+    }
+  },
+  {
+    "id": 8,
+    "title": "Rampura Green Villas",
+    "lat": 23.7639,
+    "lng": 90.421,
+    "plotDetails": {
+      "plotOwnerName": "Green Life Housing",
+      "plotSize": "1.8 Acres",
+      "address": "Rampura, Dhaka",
+      "plotPhoto": "https://images.unsplash.com/photo-1600607687260-e1f91cdd1b1f"
+    },
+    "flatDetails": {
+      "flatSize": [
+        { "type": "2 BHK", "size": "1000 sq ft" },
+        { "type": "3 BHK", "size": "1350 sq ft" }
+      ],
+      "pricePerSqFt": 7800,
+      "flatPlan": [
+        {
+          "name": "Plan A",
+          "image": "https://images.unsplash.com/photo-1600607688899-7c1d43d4b12d"
+        },
+        {
+          "name": "Plan B",
+          "image": "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198"
+        }
+      ]
+    },
+    "salesInformation": {
+      "totalFlats": 25,
+      "soldFlats": 15
+    }
+  }
+]
